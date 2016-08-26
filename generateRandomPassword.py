@@ -2,7 +2,6 @@
 import sys , getopt
 import string
 import random
-import subprocess
 from subprocess import Popen, PIPE
 
 def copyToClipboard(txt):
